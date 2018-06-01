@@ -19,12 +19,19 @@ $ npm install @nxmix/is-full-width
 ## Usage
 
 ```js
-const isFullwidth = require('is-full-width');
+const isFullWidth = require('is-full-width').default;
 
-isFullwidth('谢'.codePointAt());
+isFullWidth('谢'.codePointAt());
 //=> true
 
-isFullwidth('a'.codePointAt());
+isFullWidth('a'.codePointAt());
+//=> false
+```
+
+```ts
+import isFullWidth from 'is-full-width';
+
+isFullWidth('a'.codePointAt());
 //=> false
 ```
 
