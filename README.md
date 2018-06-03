@@ -1,4 +1,4 @@
-# @nxmix/is-full-width [![Build Status](https://travis-ci.org/NXMIX/is-full-width.svg?branch=master)](https://travis-ci.org/NXMIX/is-full-width)
+# @nxmix/is-full-width [![Build Status](https://travis-ci.org/NXMIX/is-full-width.svg?branch=master)](https://travis-ci.org/NXMIX/is-full-width) [![Coverage Status](https://coveralls.io/repos/github/NXMIX/is-full-width/badge.svg)](https://coveralls.io/github/NXMIX/is-full-width)
 
 > Check if the character represented by a given [Unicode code point](https://en.wikipedia.org/wiki/Code_point) is [fullwidth](https://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms)
 
