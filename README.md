@@ -1,7 +1,7 @@
 # @nxmix/is-full-width
 [![Build Status](https://travis-ci.org/NXMIX/is-full-width.svg?branch=master)](https://travis-ci.org/NXMIX/is-full-width)
 [![Coverage Status](https://coveralls.io/repos/github/NXMIX/is-full-width/badge.svg)](https://coveralls.io/github/NXMIX/is-full-width)
-[![npm](https://img.shields.io/npm/v/@nxmix/is-full-width.svg?maxAge=1000)](https://www.npmjs.com/package/@nxmix/is-full-width/)
+[![npm](https://img.shields.io/npm/v/@nxmix/is-full-width.svg?maxAge=1000)](https://www.npmjs.com/package/@nxmix/is-full-width/) [![Greenkeeper badge](https://badges.greenkeeper.io/NXMIX/is-full-width.svg)](https://greenkeeper.io/)
 
 > Check if the character represented by a given [Unicode code point](https://en.wikipedia.org/wiki/Code_point) is [fullwidth](https://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms)
 
